@@ -1,4 +1,4 @@
-# Data-Science
+           # Data-Science
 # Data Science Projects
 
 Welcome to my collection of Data Science projects! In this repository, you'll find a variety of projects that I’ve worked on using **Python** and **R**. The projects explore different aspects of data analysis, machine learning, and data visualization, providing hands-on experience with real-world datasets.
@@ -14,7 +14,6 @@ Welcome to my collection of Data Science projects! In this repository, you'll fi
   - TensorFlow
 - **R**: Used in a few specific projects to leverage its statistical and visualization capabilities.
 - **SQL**: Used for database management and querying relational datasets.
-- **Jupyter Notebooks**: For interactive documentation and code execution.
 
 ## Projects
 
